@@ -3,7 +3,7 @@
 
 专注纯粹听感与细腻交互的本地与在线融合音乐座舱。完全免费、无广告、无会员，从歌单导入、素材补全、播放调音，到沉浸式歌词、MV 制作一气呵成。
 
-- 🌐 **官方网站**：[https://liao-music.pages.dev/](https://liao-music.pages.dev/)
+- 🌐 **官方网站（下载）**：[https://liao-music.pages.dev/](https://liao-music.pages.dev/)
 - 🎧 **在线体验（网页版）**：[https://liaomusic.pages.dev/](https://liaomusic.pages.dev/)
 
 ---
